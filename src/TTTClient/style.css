@@ -1,0 +1,4 @@
+.middleArea {
+    -fx-background-image:url("../images/Grid.png");
+    -fx-background-size: cover, auto;
+}
